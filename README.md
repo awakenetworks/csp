@@ -87,7 +87,7 @@ csp := csp.New(csp.Config{
 package main
 
 import (
-  "github.com/yanfali/csp"
+  "github.com/awakesecurity/csp"
   "github.com/urfave/negroni"
 )
 
